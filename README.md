@@ -20,4 +20,10 @@ Rutgers Bootcamp Python API challenge
 ![9](https://github.com/Jen-Dean/API-Challenge/blob/main/WeatherPy/output_data/South%20Hemisphere:%20City%20Latitude%20vs%20Humidity.png)
 ![10](https://github.com/Jen-Dean/API-Challenge/blob/main/WeatherPy/output_data/South%20Hemisphere:%20City%20Latitude%20vs%20Max%20Temerature.png)
 ![11](https://github.com/Jen-Dean/API-Challenge/blob/main/WeatherPy/output_data/Southern%20Hemisphere:%20City%20Latitude%20vs%20Cloudiness.png)
-![12](https://github.com/Jen-Dean/API-Challenge/blob/main/WeatherPy/output_data/Southern%20Hemisphere:%20City%20Latitude%20vs%20Wind%20Speed.png
+![12](https://github.com/Jen-Dean/API-Challenge/blob/main/WeatherPy/output_data/Southern%20Hemisphere:%20City%20Latitude%20vs%20Wind%20Speed.png)
+
+## VacationPy
+* [Python Code](https://github.com/Jen-Dean/API-Challenge/blob/main/VacationPy/VacationPy_FINSIHED.ipynb)
+
+#### Final Hotel Heatmap:
+![heatmap](https://github.com/Jen-Dean/API-Challenge/blob/main/VacationPy/output_data/Final_gmap_hotel_heatmap.png)
